@@ -1,2 +1,4 @@
-# puppet-docordova
-Puppet module for Cordova configuration
+puppet-docordova
+================
+
+Devopera puppet module for Apache Cordova

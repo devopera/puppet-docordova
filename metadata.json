@@ -1,0 +1,14 @@
+{
+  "name": "devopera-docordova",
+  "version": "0.9.0",
+  "author": "(c) Alex Stanhope, Devopera.com",
+  "summary": "Devopera Cordova configuration module",
+  "license": "Apache License, Version 2.0",
+  "source": "https://github.com/devopera/puppet-docordova",
+  "project_page": "http://devopera.com/module/docordova",
+  "issues_url": "https://github.com/devopera/puppet-docordova/issues",
+  "description": "",
+  "dependencies": [
+    {"name":"devopera/docommon","version_requirement":"0.9.3"}
+  ]
+}
